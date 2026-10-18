@@ -1,0 +1,10 @@
+[package]
+name = "segment-tree-rs"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.88"
+
+[dependencies]
+
+[dev-dependencies]
+proptest = "1.11.0"
